@@ -11,9 +11,11 @@ Get the latest version from [Releases](../../releases/latest).
 | File | What it is |
 |---|---|
 | `bridge-client-setup-<version>.exe` | Windows installer (current user, no administrator rights needed) |
-| `bridge-module-vertex-<version>.zip` | Module: the Gemini page, image / video / speech / music generation, and Claude's media tools |
+| `bridge-module-studio-<version>.zip` | Module: Media Studio — image / video / speech / music generation, and Claude's media tools |
 | `bridge-module-codex-<version>.zip` | Module: the ChatGPT · Codex page (Codex binaries included) |
+| `bridge-module-agy-<version>.zip` | Module: the Antigravity page (requires Google's Antigravity CLI, `agy`, installed and signed in on this PC; not included) |
 | `bridge-module-dimensio-<version>.zip` | Module: the dimensio page (multi-provider agent workspace) |
+| `ClaudeBridge-offline-<versionCode>.apk` | Android app (your server also offers it at `/download/android`) |
 
 ## Install
 
@@ -40,9 +42,11 @@ Third-party services (Anthropic, Google, OpenAI and others) are used under your 
 | 文件 | 内容 |
 |---|---|
 | `bridge-client-setup-<版本>.exe` | Windows 安装包（装在当前用户下，不用管理员权限） |
-| `bridge-module-vertex-<版本>.zip` | 功能扩展：Gemini 分页、图像 / 视频 / 语音 / 音乐生成，以及 Claude 的媒体工具 |
+| `bridge-module-studio-<版本>.zip` | 功能扩展：Media Studio——图像 / 视频 / 语音 / 音乐生成，以及 Claude 的媒体工具 |
 | `bridge-module-codex-<版本>.zip` | 功能扩展：ChatGPT · Codex 分页（自带 Codex 程序） |
+| `bridge-module-agy-<版本>.zip` | 功能扩展：Antigravity 分页（这台电脑要先装好并登录 Google 的 Antigravity CLI，也就是 `agy`；离线包不带它） |
 | `bridge-module-dimensio-<版本>.zip` | 功能扩展：dimensio 分页（多厂商 agent 工作台） |
+| `ClaudeBridge-offline-<版本号>.apk` | 安卓 App（你的服务端也会在 `/download/android` 提供同一版） |
 
 ### 安装
 
