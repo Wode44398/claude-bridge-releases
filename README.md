@@ -1,12 +1,14 @@
-# Claude Bridge — releases
+# Bridge — releases (moved)
 
 **English** · [简体中文](#简体中文)
 
-Windows installers and module packages for **Claude Bridge**, a self-hosted AI agent workspace: run Claude Code on your own machine and use it from the desktop app, the Android app or any browser. This repository only hosts the release files; there is no source code here.
+> **Releases have moved to [Wode44398/bridge](https://github.com/Wode44398/bridge/releases).** Starting with 2026.11.24.0643, installers, module packages and the Android app are published there, next to the source code. Installed apps keep updating on their own: for a transition period every new version also leaves a `latest.json` here, so older installs still find it. Releases up to 2026.11.24.0643 stay available below. Please open new issues in [Wode44398/bridge](https://github.com/Wode44398/bridge/issues).
+
+Windows installers and module packages for **Bridge** (formerly Claude Bridge), a self-hosted AI agent workspace: run Claude Code on your own machine and use it from the desktop app, the Android app or any browser. This repository holds the release files up to 2026.11.24.0643; the source code and newer releases are in [Wode44398/bridge](https://github.com/Wode44398/bridge).
 
 ## Download
 
-Get the latest version from [Releases](../../releases/latest).
+Get the latest version from [Wode44398/bridge Releases](https://github.com/Wode44398/bridge/releases/latest).
 
 | File | What it is |
 |---|---|
@@ -33,11 +35,13 @@ Third-party services (Anthropic, Google, OpenAI and others) are used under your 
 
 ## 简体中文
 
-**Claude Bridge** 的 Windows 安装包与功能扩展离线包。Claude Bridge 是自托管的 AI agent 工作台：把 Claude Code 跑在你自己的电脑上，从电脑客户端、安卓 App 或浏览器使用。本仓库只放发布文件，没有源码。
+> **发布已迁到 [Wode44398/bridge](https://github.com/Wode44398/bridge/releases)。** 从 2026.11.24.0643 起，安装包、功能扩展离线包和安卓 App 都发在那边，和源码放在一起。已经装好的电脑和手机照常自动更新：过渡期内每个新版本也会在这里留一份 `latest.json`，旧版本照样找得到。2026.11.24.0643 及以前的版本仍留在本仓库。新问题请到 [Wode44398/bridge](https://github.com/Wode44398/bridge/issues) 提。
+
+**Bridge**（原名 Claude Bridge）的 Windows 安装包与功能扩展离线包。Bridge 是自托管的 AI agent 工作台：把 Claude Code 跑在你自己的电脑上，从电脑客户端、安卓 App 或浏览器使用。本仓库存放 2026.11.24.0643 及以前的发布文件；源码和更新的版本在 [Wode44398/bridge](https://github.com/Wode44398/bridge)。
 
 ### 下载
 
-到 [Releases](../../releases/latest) 下载最新版。
+到 [Wode44398/bridge 的 Releases](https://github.com/Wode44398/bridge/releases/latest) 下载最新版。
 
 | 文件 | 内容 |
 |---|---|
